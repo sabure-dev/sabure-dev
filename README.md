@@ -20,6 +20,8 @@
 
 ### Go (for fun and performance-critical bits)
 
+### LiteStar (new python framework)
+
 ## 🚴🏿‍♂️ Hobbies
 
 ### Music, theaters, active leisure
