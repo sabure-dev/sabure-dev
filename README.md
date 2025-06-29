@@ -24,4 +24,4 @@
 
 ## 🚴🏿‍♂️ Hobbies
 
-### Music, theaters, active leisure
+### Music, drawing, active leisure
