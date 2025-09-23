@@ -4,7 +4,7 @@
 
 ### Backend: Python, Django, FastAPI, Flask, REST/GraphQL, Jinja2
 
-### Databases: PostgreSQL, MongoDB, Redis, MySQL, sqlite, alembic
+### Databases: PostgreSQL, ElasticSearch, MongoDB, Redis, MySQL, sqlite, alembic
 
 ### DevOps: Docker & Docker Compose, Kubernetes, AWS/GCP, CI/CD (GitHub Actions)
 
