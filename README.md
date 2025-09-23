@@ -12,7 +12,7 @@
 
 ### Testing: Pytest, unittest, TDD
 
-### Other: SQLAlchemy (Core/ORM), TypeScript (basics), Linux, Grafana, Prometheus, React, bootstrap, vue, tailwind
+### Other: SQLAlchemy (Core/ORM), TypeScript (basics), Linux, Grafana, Prometheus, React, bootstrap, vue, tailwind, Flutter
 
 ## 🌱 Learning Now
 
