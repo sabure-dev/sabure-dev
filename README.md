@@ -1,4 +1,4 @@
-# Python Backend Developer | API Architect | Problem Solver
+# Software Engineer
 
 ## 🛠️ Tech Stack
 
