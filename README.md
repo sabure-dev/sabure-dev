@@ -22,6 +22,8 @@
 
 ### LiteStar (new python framework)
 
+### C++ for university discipline
+
 ## 🚴🏿‍♂️ Hobbies
 
 ### Music, drawing, active leisure
