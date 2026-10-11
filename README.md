@@ -31,6 +31,6 @@
 
 [![github](https://img.shields.io/badge/github-1e1e2e?style=flat-square&logo=github&logoColor=cba6f7)](https://github.com/sabure-dev)
 [![mail](https://img.shields.io/badge/mail-1e1e2e?style=flat-square&logo=gmail&logoColor=f5c2e7)](mailto:dev.sabure@gmail.com)
-[![site](https://img.shields.io/badge/mail-1e1e2e?style=flat-square&logo=gmail&logoColor=f5c2e7)](https://sabure-dev.github.io)
+[![site](https://img.shields.io/badge/site-1e1e2e?style=flat-square&logo=firefoxbrowser&logoColor=89b4fa)](https://sabure-dev.github.io)
 
 </div>
