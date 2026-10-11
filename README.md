@@ -26,5 +26,5 @@
 
 ## 🚴🏿‍♂️ Hobbies
 
-### Music, drawing, active leisure
+### Music, drawing, outdoor activities
 ### I like twenty one pilots
